@@ -1,0 +1,12 @@
+{
+  "name": "indusramos",
+  "version": "1.0.0",
+  "description": "Website de muestra para Industrias Madereras Ramos & Asociados, C.A.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass scss/style.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
